@@ -8,3 +8,5 @@ clouds over Greenland.
 Working path:
 (1) /glade/p/cesm/pcwg_dev/jenkay/COSP/cesm112lens/runs_cesm1_1_2_LENS_n16_cosp1.4_opaq_prec/cesm112LENS_FAMIPC5.f09_f09.001_cosp1.4_opaq_prec/atm/hist/
 (2) /glade/p/cesm/pcwg_dev/jenkay/COSP/cesm112lens/runs_cesm1_1_2_LENS_n16_cosp1.4_opaq_prec/b.e11.BRCP85C5CNBDRD.f09_g16.001_cosp1.4_opaq_prec_goldenrun_agl
+
+(2a) /glade/p/work/jenkay/obs/COSP/CLOUDSAT/v2_Tristan
