@@ -1,6 +1,9 @@
 # Ignore dask space
 notebooks/dask-worker-space/
 
+# Ignore Finder .DS_Store
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
