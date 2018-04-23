@@ -1,3 +1,6 @@
+# Ignore huge EPS figures
+*.eps
+
 # Ignore dask space
 notebooks/dask-worker-space/
 
